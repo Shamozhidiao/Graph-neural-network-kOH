@@ -15,7 +15,9 @@ matplotlib==3.8.2
 numpy=1.24.3
 pandas==2.1.3
 ```
-
+The data for pre-training can be found in pubchem-10m-clean.txt. The link to the it is available here:
+https://doi.org/10.48550/arXiv.2010.09885
+https://github.com/seyonechithrananda/bert-loves-chemistry
 
 ### Repo
 
